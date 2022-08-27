@@ -10,6 +10,8 @@ My name is Alex and this is my Github. Its nothing fancy or special, just a plac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captinalex1&theme=gotham&show_icons=true&custom_title=Alex%27s%20Top%20Langs&count_private=true%langs_count)](https://github.com/anuraghazra/github-readme-stats)
 
+Quickstats shows PHP is my Top langauge, however, Html and Css are my primary languages. Since a lot of my website is server and backend dependant, I have to write a bit of php for certain functions to work and also save almost all my files with the php end tag. 
+
 ## Projects!
 
 My primary project is https://zetacloud.cloud
