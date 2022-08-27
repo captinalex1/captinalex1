@@ -8,7 +8,7 @@ My name is Alex and this is my Github. Its nothing fancy or special, just a plac
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captinalex1&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captinalex1&count_private=true&theme=gotham&show_icons=true&custom_title=Alex%27s%20Top%20Langs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captinalex1&theme=gotham&show_icons=true&custom_title=Alex%27s%20Top%20Langs&count_private=true%langs_count)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects!
 
