@@ -12,7 +12,7 @@ My name is Alex and this is my Github. Its nothing fancy or special, just a plac
 
 ## Projects!
 
-My primary project is zetacloud.cloud
+My primary project is https://zetacloud.cloud
 
 It is a Cloud server that I have created, both the physical server and the Front/Backend Code as well. While I have used guides in how to do some of the functions, most of the code work was my own, with research if I ran into issues or asking my DevOps friends how they might go around fixing it. It is still heavily in beta but much more than what it used to be.
 
