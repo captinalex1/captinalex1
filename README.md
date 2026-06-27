@@ -2,7 +2,9 @@
 
 Welcome to my Github page! :D
 
-My name is Alex and this is my Github. Its nothing fancy or special, just a place to add my code to show my work I have done. Im primarily skilled in building servers, computers and creating networks but I have wanted to dabble just a little bit in code as well. I myself feel like im a beginer coder, however I have learned a bit and can anaylise and have a good idea as to whats going on inside it. 
+This is my personal GitHub for lab projects, website code, and infrastructure learning. Most of my background is in enterprise IT operations, endpoint support, VMware/ESXi infrastructure, data center/lab buildouts, and regional technical support.
+
+I use this space to learn more about coding, automation, containers, Kubernetes, and cloud-native infrastructure through my personal site and homelab projects.
 
 ## Quickstats
 
